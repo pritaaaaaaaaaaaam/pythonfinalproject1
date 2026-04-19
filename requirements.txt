@@ -1,0 +1,19 @@
+# Installation Instructions
+# Make sure Python 3 is installed on your machine
+# Install the matplotlib  library needed by running this in your terminal:
+#  	pip install matplotlib 
+# Or 
+# python -m pip install matplotlib
+
+   
+# How to Run the Program
+# Open the  terminal or command prompt
+# Navigate to the folder where the file is saved
+# Run the command:
+#        python main.py 
+#        Or if your system uses python 3 
+      
+#        python3 main.py
+# The application window will open automatically. 
+# The database file theonedatabase.db will be created on its own the 
+#first time you run it
